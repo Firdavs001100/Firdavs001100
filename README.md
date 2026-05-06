@@ -143,18 +143,6 @@ Responsive modern platform focused on performance, clean design, and seamless in
 
 ---
 
-## 📫 Connect With Me
-
-<p align="left">
-<a href="mailto:foruseofbusiness@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
-📍 Seoul, South Korea
-
----
-
 ## ⚡ Philosophy
 
 > “I build scalable, intelligent, and production-ready systems focused on performance, maintainability, and real-world impact.”
