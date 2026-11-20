@@ -41,10 +41,10 @@ My recent professional work also includes mobile access, connected equipment and
 
 | Area | Technologies |
 | --- | --- |
-| Languages | TypeScript, JavaScript, Python, Go, Dart, Kotlin, Swift, Java, C/C++, C# |
-| Web & backend | React, Next.js, NestJS, FastAPI, Express, GraphQL, REST, WebSockets, Socket.IO |
+| Languages | TypeScript, JavaScript, Python, Go, Dart, Kotlin, Swift, Java, PHP, C/C++, C# |
+| Web & backend | React, Next.js, React Native, Redux, Apollo, React Query, Node.js, NestJS, FastAPI, Express, GraphQL, REST, WebSockets, Socket.IO |
 | Mobile & devices | Flutter, native Android/iOS, BLE/GATT, NFC/HCE, ESP32 |
-| Data & operations | PostgreSQL, MariaDB/MySQL, MongoDB, SQL Server, SQLite, Docker, Linux, Nginx, Azure |
+| Data & operations | PostgreSQL, MariaDB/MySQL, MongoDB, SQL Server, SQLite, Docker, Linux, Nginx, PM2, Cloudflare, Azure |
 | AI & data | LLM APIs, PyTorch, OpenCV, NumPy, pandas |
 
 ## Connect
