@@ -1,148 +1,55 @@
-<h1 align="center">Hi 👋, I'm Firdavs Fred</h1>
-<h3 align="center">Full Stack & AI Engineer | Building Scalable Intelligent Systems</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Engineer;AI+Engineer;Python+%7C+TypeScript+Developer;Next.js+%7C+NestJS+Specialist;Real-Time+Systems+Engineer&center=true&width=700&height=45">
+  <img src="https://raw.githubusercontent.com/Firdavs001100/Firdavs001100/main/assets/profile-banner.svg" alt="Firdavs Sattarov — software engineer working across products, platforms and connected systems" width="100%">
 </p>
 
----
+# Hi, I'm Firdavs — Fred
 
-## 🚀 About Me
+I'm a software engineer based in Seoul. I build web and mobile products, backend services, and software that connects to physical devices. My work spans the interface, API and data layers, through deployment and production support.
 
-💻 Full Stack & AI Engineer with 4+ years of experience building scalable applications, real-time systems, and intelligent AI-powered platforms.
+I enjoy taking on problems that cross those boundaries: improving slow application workflows, connecting devices reliably, and making existing systems easier to operate and maintain.
 
-⚡ Specialized in:
-- Backend Architecture
-- AI Integration & LLM Systems
-- Real-Time Communication
-- Cloud & Containerized Deployment
-- Modern Frontend Engineering
+## What I work on
 
-🌍 Based in Seoul, South Korea 🇰🇷  
-🎓 Computer Science & Engineering — Sejong University  
-📈 Passionate about production-grade systems, clean architecture, and future-ready AI solutions.
+- **Applications and platforms:** React and Next.js interfaces, Flutter apps, and backend services in Python, Go and TypeScript.
+- **Data and performance:** SQL and NoSQL data models, API design, query optimization, pagination and frontend data fetching.
+- **Mobile and devices:** Kotlin and Swift integrations, device enrollment, authentication, offline access, BLE/NFC and ESP32 firmware.
+- **AI and real-time features:** LLM API integration, prompt and response handling, WebSockets, Socket.IO and computer vision.
+- **Delivery and operations:** Docker, Linux, Nginx, Azure, TLS, release tooling and production troubleshooting.
 
----
+## Experience
 
-## 🧠 Tech Stack
+**Software Engineer · HaeinS&S** | Jul 2026 – Present  
+Develop mobile applications, backend APIs and administration portals. Improve data access and page-loading workflows; implement authentication, device communication and recovery; and support releases and production systems.
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Apollo](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
+**Full Stack Developer / AI Engineer · VanCore Technologies** | Aug 2023 – Feb 2026  
+Built NestJS and GraphQL/REST services with Next.js interfaces, real-time features and AI integrations. Deployed applications with Docker, Nginx and Linux.
 
-### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+**Frontend Developer · ClearPath Labs Inc.** | May 2022 – Apr 2023  
+Built responsive interfaces and reusable components, integrated APIs, and improved frontend maintainability.
 
-### Databases & Infrastructure
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## Selected public work
 
-### AI & Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+**Commerce and community platform** — A customer-facing application with product discovery, accounts, orders, social content and administration. A NestJS monorepo separates GraphQL API services from scheduled ranking jobs.  
+[Frontend · Next.js / Apollo](https://github.com/Firdavs001100/Shop-Corner-Next) &nbsp;·&nbsp; [Backend · NestJS / MongoDB](https://github.com/Firdavs001100/Shop-Corner)
 
----
+**Retail platform** — A React storefront and Express backend with product and order flows, authentication, media uploads and a separate administration interface.  
+[Frontend · React / Redux](https://github.com/Firdavs001100/ComfyZone-react) &nbsp;·&nbsp; [Backend · Express / MongoDB](https://github.com/Firdavs001100/ComfyZone)
 
-## 💼 Professional Experience
+My recent professional work also includes mobile access, connected equipment and operational systems. The company repositories are private; the public repositories above show earlier full-stack work.
 
-### 🚀 Full Stack Developer / AI Engineer  
-**VanCore Technologies — Amsterdam, Netherlands**  
-📅 Aug 2023 – Feb 2026
+## Tools and technologies
 
-- Architected scalable backend systems using **NestJS**, **GraphQL**, and REST APIs.
-- Built high-performance web platforms with **Next.js**, **React Query**, and **Apollo Client**.
-- Implemented real-time communication systems using **WebSockets** and **Socket.IO**.
-- Deployed containerized production applications using **Docker**, **NGINX**, and Linux servers.
-- Integrated advanced AI features using **LLMs**, prompt engineering, and AI APIs.
-- Designed intelligent backend orchestration systems focused on speed and reliability.
+| Area | Technologies |
+| --- | --- |
+| Languages | TypeScript, JavaScript, Python, Go, Dart, Kotlin, Swift, Java, C/C++, C# |
+| Web & backend | React, Next.js, NestJS, FastAPI, Express, GraphQL, REST, WebSockets, Socket.IO |
+| Mobile & devices | Flutter, native Android/iOS, BLE/GATT, NFC/HCE, ESP32 |
+| Data & operations | PostgreSQL, MariaDB/MySQL, MongoDB, SQL Server, SQLite, Docker, Linux, Nginx, Azure |
+| AI & data | LLM APIs, PyTorch, OpenCV, NumPy, pandas |
 
----
+## Connect
 
-### 💻 Frontend Developer  
-**ClearPath Labs Inc. — Vancouver, Canada**  
-📅 May 2022 – Apr 2023
+I'm interested in software engineering roles and freelance projects across product development, backend systems, AI-enabled workflows and connected devices.
 
-- Developed responsive and interactive user interfaces.
-- Improved cross-platform UX and frontend maintainability.
-- Refactored legacy systems for better performance and scalability.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Firdavs001100&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firdavs001100&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Firdavs001100&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Featured Projects
-
-### 🛒 ShopCorner
-🔗 https://shopcorner.site
-
-Modern scalable e-commerce platform with real-time architecture and optimized user experience.
-
-### 🛋️ ComfyZone
-🔗 https://comfyzone.blog
-
-Responsive modern platform focused on performance, clean design, and seamless interactions.
-
----
-
-## 🌎 Languages
-
-- 🇺🇸 English
-- 🇰🇷 Korean
-- 🇹🇷 Turkish
-- 🇺🇿 Uzbek
-- 🇷🇺 Russian
-
-
----
-
-## 🔗 Connect With Me
-
-<p align="left">
-<a href="mailto:foruseofbusiness@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/fred-the-engineer/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Firdavs001100">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-📍 Seoul, South Korea
-
----
-
-## ⚡ Philosophy
-
-> “I build scalable, intelligent, and production-ready systems focused on performance, maintainability, and real-world impact.”
+[LinkedIn](https://www.linkedin.com/in/fred-the-engineer/) · [Email](mailto:foruseofbusiness@gmail.com)  
+Seoul, South Korea · English, Korean, Turkish, Uzbek and Russian
